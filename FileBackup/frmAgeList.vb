@@ -411,6 +411,7 @@ Public Class frmAgeList
     End Sub
 
     Private Sub frmAgeList_Resize(sender As Object, e As EventArgs) Handles Me.Resize
+        'Calls the resize screen routine
         ResizeScreen()
     End Sub
 
