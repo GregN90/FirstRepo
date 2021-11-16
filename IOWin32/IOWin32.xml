@@ -1,0 +1,78 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+IOWin32
+</name>
+</assembly>
+<members>
+<member name="T:IOWin32.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:IOWin32.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:IOWin32.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:IOWin32.DirectoryEnumerator.Enumerator.FindFirst">
+ <summary>
+ Find the first match.
+ </summary>
+ <returns></returns>
+</member>
+<member name="F:IOWin32.DirectoryEnumerator.Mode.Directory">
+ <summary>
+ Enumerate directories.
+ </summary>
+</member>
+<member name="F:IOWin32.DirectoryEnumerator.Mode.File">
+ <summary>
+ Enumerate files. 
+ </summary>
+</member>
+<member name="T:IOWin32.Win32Declares">
+ <summary>
+ Win32 Native P/Invoke
+ </summary>
+ 
+</member>
+<member name="M:IOWin32.Win32Declares.FindFirstFile(System.String,IOWin32.WIN32_FIND_DATA)">
+ <summary>
+ Searches a directory for a file or subdirectory with a name that matches
+ a specific name (or partial name if wildcards are used).
+ http://msdn.microsoft.com/en-us/library/windows/desktop/aa364418(v=vs.85).aspx
+ </summary>
+</member>
+<member name="M:IOWin32.Win32Declares.FindNextFile(IOWin32.SafeFindHandle,IOWin32.WIN32_FIND_DATA)">
+ <summary>
+ Continues a file search from a previous call to the FindFirstFile or 
+ FindFirstFileEx function.
+ http://msdn.microsoft.com/en-us/library/windows/desktop/aa364428(v=VS.85).aspx
+ </summary>
+</member>
+<member name="M:IOWin32.Win32Declares.FindClose(System.IntPtr)">
+ <summary>
+ Closes a file search handle opened by the FindFirstFile, FindFirstFileEx, 
+ FindFirstFileNameW, FindFirstFileNameTransactedW, FindFirstFileTransacted,
+ FindFirstStreamTransactedW, or FindFirstStreamW functions.
+ http://msdn.microsoft.com/en-us/library/windows/desktop/aa364413(v=VS.85).aspx
+ </summary>
+ <param name="handle"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="T:IOWin32.SafeFindHandle">
+ <summary>
+ Safe handle for using with the Find File APIs.
+ </summary>
+</member>
+</members>
+</doc>

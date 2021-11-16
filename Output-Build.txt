@@ -1,0 +1,14 @@
+﻿1>------ Build started: Project: FileBackup, Configuration: Debug Any CPU ------
+1>C:\Users\gregn\Google Drive\FileBackup\FileBackup\FileBackup\clsFAC.vb(8,13): warning BC42024: Unused local variable: 'FS'.
+1>C:\Users\gregn\Google Drive\FileBackup\FileBackup\FileBackup\clsJob.vb(32,9): warning BC42355: Property 'Day' doesn't return a value on all code paths. Are you missing a 'Return' statement?
+1>C:\Users\gregn\Google Drive\FileBackup\FileBackup\FileBackup\clsJob.vb(46,9): warning BC42355: Property 'TickedDay' doesn't return a value on all code paths. Are you missing a 'Return' statement?
+1>C:\Users\gregn\Google Drive\FileBackup\FileBackup\FileBackup\clsFolder.vb(50,5): warning BC42353: Function 'UpdateFile' doesn't return a value on all code paths. Are you missing a 'Return' statement?
+1>C:\Users\gregn\Google Drive\FileBackup\FileBackup\FileBackup\frmAgeList.vb(223,5): warning BC42353: Function 'AddNode' doesn't return a value on all code paths. Are you missing a 'Return' statement?
+1>C:\Users\gregn\Google Drive\FileBackup\FileBackup\FileBackup\frmBackup.vb(99,46): warning BC42104: Variable 'lstrSourceFile' is used before it has been assigned a value. A null reference exception could result at runtime.
+1>C:\Users\gregn\Google Drive\FileBackup\FileBackup\FileBackup\frmBackup.vb(160,25): warning BC42104: Variable 'lstrFile' is used before it has been assigned a value. A null reference exception could result at runtime.
+1>C:\Users\gregn\Google Drive\FileBackup\FileBackup\FileBackup\frmBackup.vb(246,5): warning BC42105: Function 'GetRequiredActions' doesn't return a value on all code paths. A null reference exception could occur at run time when the result is used.
+1>C:\Users\gregn\Google Drive\FileBackup\FileBackup\FileBackup\frmAgeList.vb(280,29): warning BC42104: Variable 'lstrFile' is used before it has been assigned a value. A null reference exception could result at runtime.
+1>C:\Users\gregn\Google Drive\FileBackup\FileBackup\FileBackup\frmAgeList.vb(401,13): warning BC42024: Unused local variable: 'lstrNode'.
+1>C:\Users\gregn\Google Drive\FileBackup\FileBackup\FileBackup\frmAgeList.vb(402,13): warning BC42024: Unused local variable: 'BackCol'.
+1>  FileBackup -> C:\Users\gregn\Google Drive\FileBackup\FileBackup\FileBackup\bin\Debug\FileBackup.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
