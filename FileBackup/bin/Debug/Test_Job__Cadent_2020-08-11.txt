@@ -1,0 +1,57 @@
+﻿-----------------------------------------------------------------
+2020-08-11 22:14:15.82 :: About to synchronise \\10.0.0.15\Data\Clients\93. Cadent ---> C:\DeleteMe\Destination Test 2
+2020-08-11 22:14:15.84 Scanning source folder: \\10.0.0.15\Data\Clients\93. Cadent
+2020-08-11 22:14:35.42 Scanning destination folder: C:\DeleteMe\Destination Test 2
+2020-08-11 22:14:35.43 :: Copying \\10.0.0.15\Data\Clients\93. Cadent\.DS_Store :: SUCCESS
+Job Aborted
+2020-08-11 22:14:35.88 :: Copying \\10.0.0.15\Data\Clients\93. Cadent\Thumbs.db :: SUCCESS
+2020-08-11 22:14:36.51 :: Copying \\10.0.0.15\Data\Clients\93. Cadent\01.Commissioning Documents\Commission Closure Review - Part 5 of 5.dotx : Error 5 - The system cannot find the path specified : \\10.0.0.15\Data\Clients\93. Cadent\01.Commissioning Documents\Commission Closure Review - Part 5 of 5.dotx
+2020-08-11 22:14:36.73 :: Attempting to create destination folder C:\DeleteMe\Destination Test 2\01.Commissioning Documents
+2020-08-11 22:14:36.73 :: Folder creation successful. Attempting to re-copy
+ :: SUCCESS
+2020-08-11 22:14:37.00 :: Copying \\10.0.0.15\Data\Clients\93. Cadent\01.Commissioning Documents\Commission Log - Part 3 of 5.dotx :: SUCCESS
+2020-08-11 22:14:37.26 :: Copying \\10.0.0.15\Data\Clients\93. Cadent\01.Commissioning Documents\Commission Start-Up Review. 2 of 5 - Cadent.docx :: SUCCESS
+2020-08-11 22:14:38.21 :: Copying \\10.0.0.15\Data\Clients\93. Cadent\01.Commissioning Documents\Commissioning Documents 1of5 Cadent.docx :: SUCCESS
+2020-08-11 22:14:39.11 :: Copying \\10.0.0.15\Data\Clients\93. Cadent\01.Commissioning Documents\Thumbs.db :: SUCCESS
+2020-08-11 22:14:39.76 :: Copying \\10.0.0.15\Data\Clients\93. Cadent\01.Commissioning Documents\~$mmission Closure Review - Part 5 of 5.dotx :: SUCCESS
+2020-08-11 22:14:39.84 :: Copying \\10.0.0.15\Data\Clients\93. Cadent\02.Contract\BIM Contract v1.docx : Error 5 - The system cannot find the path specified : \\10.0.0.15\Data\Clients\93. Cadent\02.Contract\BIM Contract v1.docx
+2020-08-11 22:14:41.64 :: Attempting to create destination folder C:\DeleteMe\Destination Test 2\02.Contract
+2020-08-11 22:14:41.64 :: Folder creation successful. Attempting to re-copy
+ :: SUCCESS
+2020-08-11 22:14:42.26 :: Copying \\10.0.0.15\Data\Clients\93. Cadent\02.Contract\BIM Contract v1.docx - Shortcut.lnk :: SUCCESS
+2020-08-11 22:14:42.51 :: Copying \\10.0.0.15\Data\Clients\93. Cadent\02.Contract\BIM Phase 2 Contract FINAL V4.docx :: SUCCESS
+2020-08-11 22:14:44.00 :: Copying \\10.0.0.15\Data\Clients\93. Cadent\02.Contract\BIM2 PID v0.5.doc :: SUCCESS
+2020-08-11 22:14:48.63 :: Copying \\10.0.0.15\Data\Clients\93. Cadent\02.Contract\FW  BIM Contract.msg :: SUCCESS
+2020-08-11 22:14:50.80 :: Copying \\10.0.0.15\Data\Clients\93. Cadent\02.Contract\I-0129 BIM _Automated Design and Cost estimation application NIA_  Fully executed 150318.pdf :: SUCCESS
+2020-08-11 22:14:56.39 :: Copying \\10.0.0.15\Data\Clients\93. Cadent\02.Contract\I0129 BIM Phase 2 Contract FINAL V3.docx :: SUCCESS
+2020-08-11 22:14:59.25 :: Copying \\10.0.0.15\Data\Clients\93. Cadent\02.Contract\IP Review.msg :: SUCCESS
+2020-08-11 22:14:59.82 :: Copying \\10.0.0.15\Data\Clients\93. Cadent\02.Contract\National Grid Overlay Permission.msg :: SUCCESS
+2020-08-11 22:15:00.38 :: Copying \\10.0.0.15\Data\Clients\93. Cadent\02.Contract\RE  BIM Contract DS.msg :: SUCCESS
+2020-08-11 22:15:00.91 :: Copying \\10.0.0.15\Data\Clients\93. Cadent\02.Contract\RE  BIM Contract KD.1.msg :: SUCCESS
+2020-08-11 22:15:01.35 :: Copying \\10.0.0.15\Data\Clients\93. Cadent\02.Contract\RE  BIM Contract KD.2.msg :: SUCCESS
+2020-08-11 22:15:01.88 :: Copying \\10.0.0.15\Data\Clients\93. Cadent\02.Contract\RE  BIM Contract RP.msg :: SUCCESS
+2020-08-11 22:15:02.49 :: Copying \\10.0.0.15\Data\Clients\93. Cadent\03.BRD\2017.12.27-Cadent_Business_Requirements_Document-v1.docx : Error 5 - The system cannot find the path specified : \\10.0.0.15\Data\Clients\93. Cadent\03.BRD\2017.12.27-Cadent_Business_Requirements_Document-v1.docx
+2020-08-11 22:15:05.35 :: Attempting to create destination folder C:\DeleteMe\Destination Test 2\03.BRD
+2020-08-11 22:15:05.35 :: Folder creation successful. Attempting to re-copy
+ :: SUCCESS
+2020-08-11 22:15:06.18 :: Copying \\10.0.0.15\Data\Clients\93. Cadent\03.BRD\2017.12.27-Cadent_Business_Requirements_Document-v1.pdf :: SUCCESS
+2020-08-11 22:15:08.50 :: Copying \\10.0.0.15\Data\Clients\93. Cadent\03.BRD\2018.01.08-Cadent_Business_Requirements_Document-v2.docx :: SUCCESS
+2020-08-11 22:15:11.93 :: Copying \\10.0.0.15\Data\Clients\93. Cadent\03.BRD\2018.01.08-Cadent_Business_Requirements_Document-v2.pdf :: SUCCESS
+2020-08-11 22:15:14.24 :: Copying \\10.0.0.15\Data\Clients\93. Cadent\03.BRD\2018.01.11-Cadent_Business_Requirements_Document-v3.docx :: SUCCESS
+2020-08-11 22:15:17.53 :: Copying \\10.0.0.15\Data\Clients\93. Cadent\03.BRD\2018.01.11-Cadent_Business_Requirements_Document-v3.pdf :: SUCCESS
+2020-08-11 22:15:20.65 :: Copying \\10.0.0.15\Data\Clients\93. Cadent\03.BRD\2018.01.15-Cadent_Business_Requirements_Document-v4.docx :: SUCCESS
+2020-08-11 22:15:23.00 :: Copying \\10.0.0.15\Data\Clients\93. Cadent\03.BRD\2018.01.15-Cadent_Business_Requirements_Document-v4.pdf :: SUCCESS
+2020-08-11 22:15:26.45 :: Copying \\10.0.0.15\Data\Clients\93. Cadent\03.BRD\2018.01.15-Cadent_Business_Requirements_Document-v5.docx :: SUCCESS
+2020-08-11 22:15:30.21 :: Copying \\10.0.0.15\Data\Clients\93. Cadent\03.BRD\2018.01.15-Cadent_Business_Requirements_Document-v5.pdf :: SUCCESS
+2020-08-11 22:15:32.89 :: Copying \\10.0.0.15\Data\Clients\93. Cadent\03.BRD\2018.03.14-Cadent_Business_Requirements_Document-v6.docx :: SUCCESS
+2020-08-11 22:15:37.00 :: Copying \\10.0.0.15\Data\Clients\93. Cadent\03.BRD\Appendix A.docx :: SUCCESS
+2020-08-11 22:15:37.62 :: Copying \\10.0.0.15\Data\Clients\93. Cadent\03.BRD\Appendix A.pdf :: SUCCESS
+2020-08-11 22:15:38.04 :: Copying \\10.0.0.15\Data\Clients\93. Cadent\03.BRD\Appendix B.docx :: SUCCESS
+2020-08-11 22:15:38.51 :: Copying \\10.0.0.15\Data\Clients\93. Cadent\03.BRD\Appendix B.pdf :: SUCCESS
+2020-08-11 22:15:38.94 :: Copying \\10.0.0.15\Data\Clients\93. Cadent\03.BRD\AQUA IS - BRD CADENT Project v.01 - 26.10.17.docx :: SUCCESS
+2020-08-11 22:15:41.21 :: Copying \\10.0.0.15\Data\Clients\93. Cadent\03.BRD\AQUA IS - BRD CADENT Project v.01 cb.docx :: SUCCESS
+2020-08-11 22:15:43.42 JOB ABORTED - No Errors
+Total Files Copied: 38
+Total Copy failures: 0
+Total Files Deleted: 0
+Total deletion failures: 0

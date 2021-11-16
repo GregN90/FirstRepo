@@ -1,0 +1,8 @@
+﻿-----------------------------------------------------------------
+2020-06-19 02:38:25.50 :: About to synchronise c:\deleteme1 ---> c:\deleteme2
+2020-06-19 02:38:25.55 Error fetching contents of source folder 'c:\deleteme1': 76-Could not find a part of the path 'c:\deleteme1'.
+2020-06-19 02:38:25.55 JOB COMPLETE - ! WITH ERRORS !
+Total Files Copied: 0
+Total Copy failures: 0
+Total Files Deleted: 0
+Total deletion failures: 0

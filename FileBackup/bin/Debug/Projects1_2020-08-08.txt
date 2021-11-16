@@ -1,0 +1,277 @@
+﻿-----------------------------------------------------------------
+2020-08-08 09:54:16.88 :: About to synchronise \\10.0.0.15\data\2. Oracle\ ---> C:\DeleteMe\Destination Test\
+2020-08-08 09:54:16.89 Scanning source folder: \\10.0.0.15\data\2. Oracle\
+2020-08-08 09:54:25.78 Scanning destination folder: C:\DeleteMe\Destination Test\
+
+2020-08-08 09:54:25.79 :: Copying \\10.0.0.15\data\2. Oracle\\iles Archived.lnk :: FAIL - 5 - The specified path is invalid : \\10.0.0.15\data\2. Oracle\\iles Archived.lnk :: Copying to C:\DeleteMe\Destination Test\\iles Archived.lnk
+
+Job Aborted
+2020-08-08 09:54:25.82 :: Copying \\10.0.0.15\data\2. Oracle\\humbs.db :: FAIL - 5 - The specified path is invalid : \\10.0.0.15\data\2. Oracle\\humbs.db :: Copying to C:\DeleteMe\Destination Test\\humbs.db
+2020-08-08 09:54:25.85 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\COPI & RPI.xlsx :: SUCCESS
+2020-08-08 09:54:26.36 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\Hindsight User Manual.docx :: SUCCESS
+2020-08-08 09:54:28.99 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\RM Cost Database.xlsx :: SUCCESS
+2020-08-08 09:54:29.91 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\SupplementaryEconomytablesMarch2017-2.xlsx :: SUCCESS
+2020-08-08 09:54:32.43 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\To be added.xlsx :: SUCCESS
+2020-08-08 09:54:32.77 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\~$COPI & RPI.xlsx :: SUCCESS
+2020-08-08 09:54:32.87 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\Hindsight Projects Upload Guide.docx :: SUCCESS
+2020-08-08 09:54:33.55 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\Hindsight Updates 18 Nov 15.xlsx :: SUCCESS
+2020-08-08 09:54:33.88 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW K5 DCF's.xlsx :: SUCCESS
+2020-08-08 09:54:34.57 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW K6 DCFs.xlsx :: SUCCESS
+2020-08-08 09:54:35.09 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\Workbreak Down Structure.docx :: SUCCESS
+2020-08-08 09:54:36.68 JOB ABORTED - ! WITH ERRORS !
+Total Files Copied: 11
+Total Copy failures: 2
+Total Files Deleted: 0
+Total deletion failures: 0
+-----------------------------------------------------------------
+2020-08-08 09:58:21.33 :: About to synchronise \\10.0.0.15\data\2. Oracle\ ---> C:\DeleteMe\Destination Test\
+2020-08-08 09:58:21.34 Scanning source folder: \\10.0.0.15\data\2. Oracle\
+2020-08-08 10:02:17.74 Scanning destination folder: C:\DeleteMe\Destination Test\
+Job Aborted
+2020-08-08 10:02:17.76 JOB ABORTED - No Errors
+Total Files Copied: 0
+Total Copy failures: 0
+Total Files Deleted: 0
+Total deletion failures: 0
+-----------------------------------------------------------------
+2020-08-08 10:02:29.54 :: About to synchronise \\10.0.0.15\data\2. Oracle\ ---> C:\DeleteMe\Destination Test\
+2020-08-08 10:02:29.54 Scanning source folder: \\10.0.0.15\data\2. Oracle\
+-----------------------------------------------------------------
+2020-08-08 10:05:04.44 :: About to synchronise \\10.0.0.15\data\2. Oracle\ ---> C:\DeleteMe\Destination Test\
+2020-08-08 10:05:04.45 Scanning source folder: \\10.0.0.15\data\2. Oracle\
+2020-08-08 10:05:14.11 Scanning destination folder: C:\DeleteMe\Destination Test\
+
+2020-08-08 10:05:14.12 :: Copying \\10.0.0.15\data\2. Oracle\\Files Archived.lnk :: FAIL - 5 - The specified path is invalid : \\10.0.0.15\data\2. Oracle\\Files Archived.lnk :: Copying to C:\DeleteMe\Destination Test\\Files Archived.lnk
+
+Job Aborted
+2020-08-08 10:05:14.15 :: Copying \\10.0.0.15\data\2. Oracle\\Thumbs.db :: FAIL - 5 - The specified path is invalid : \\10.0.0.15\data\2. Oracle\\Thumbs.db :: Copying to C:\DeleteMe\Destination Test\\Thumbs.db
+2020-08-08 10:05:14.18 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\COPI & RPI.xlsx :: SUCCESS
+2020-08-08 10:05:14.67 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\Hindsight User Manual.docx :: SUCCESS
+2020-08-08 10:05:17.29 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\RM Cost Database.xlsx :: SUCCESS
+2020-08-08 10:05:18.11 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\SupplementaryEconomytablesMarch2017-2.xlsx :: SUCCESS
+2020-08-08 10:05:20.69 JOB ABORTED - ! WITH ERRORS !
+Total Files Copied: 4
+Total Copy failures: 2
+Total Files Deleted: 0
+Total deletion failures: 0
+-----------------------------------------------------------------
+2020-08-08 10:31:17.14 :: About to synchronise \\10.0.0.15\data\2. Oracle ---> C:\DeleteMe\Destination Test
+2020-08-08 10:31:17.15 Scanning source folder: \\10.0.0.15\data\2. Oracle
+2020-08-08 10:31:26.27 Scanning destination folder: C:\DeleteMe\Destination Test
+2020-08-08 10:31:26.28 :: Copying \\10.0.0.15\data\2. Oracle\Files Archived.lnk :: SUCCESS
+2020-08-08 10:31:26.52 :: Copying \\10.0.0.15\data\2. Oracle\Thumbs.db :: SUCCESS
+2020-08-08 10:31:27.09 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\COPI & RPI.xlsx :: SUCCESS
+2020-08-08 10:31:27.59 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\Hindsight User Manual.docx :: SUCCESS
+2020-08-08 10:31:28.21 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\RM Cost Database.xlsx :: SUCCESS
+2020-08-08 10:31:28.43 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\SupplementaryEconomytablesMarch2017-2.xlsx :: SUCCESS
+2020-08-08 10:31:28.71 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\To be added.xlsx :: SUCCESS
+2020-08-08 10:31:29.07 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\~$COPI & RPI.xlsx :: SUCCESS
+2020-08-08 10:31:29.14 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\Hindsight Projects Upload Guide.docx :: SUCCESS
+2020-08-08 10:31:29.80 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\Hindsight Updates 18 Nov 15.xlsx :: SUCCESS
+2020-08-08 10:31:30.15 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW K5 DCF's.xlsx :: SUCCESS
+2020-08-08 10:31:30.91 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW K6 DCFs.xlsx :: SUCCESS
+2020-08-08 10:31:31.44 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\Workbreak Down Structure.docx :: SUCCESS
+2020-08-08 10:31:32.97 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\NWL Project Uploads\All 2010\001868 Lartington Power Dist\ENTEC Target Cost Contract Documentation\20MAR07 - ENTEC - Volume 2 Works Information - Part 1 General Including Acceptance Criteria - February 2007.pdf :: SUCCESS
+2020-08-08 10:31:36.05 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\NWL Project Uploads\All 2010\001868 Lartington Power Dist\ENTEC Target Cost Contract Documentation\20MAR07 - ENTEC - Volume 2 Works Information - Part 3 Particular Specification for Civil Works - January 2007.pdf :: SUCCESS
+2020-08-08 10:31:39.21 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\NWL Project Uploads\All 2010\001868 Lartington Power Dist\ENTEC Target Cost Contract Documentation\20MAR07 - ENTEC - Volume 2 Works Information - Part 4 Particular Specification for Mechanical Works - March 2007.pdf :: SUCCESS
+2020-08-08 10:31:45.21 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\Phil Aitken\Asset Curve Report.xlsx :: SUCCESS
+2020-08-08 10:31:46.17 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\Phil Aitken\Copy of Networks Long - Schedule 20 (Appendix A - Contractor's Schedule of Rates) Excel Schedules.xls :: SUCCESS
+2020-08-08 10:31:46.78 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\Phil Aitken\New Civils rates for upload.xlsx :: SUCCESS
+2020-08-08 10:31:47.11 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\Phil Aitken\Models descriptions\Tool Configuration - Models Base Scope CD Version 11th April 05\Model 10 Base Scope Document-Continuous operating upflow fiters\Model 10 Base Scope of Works 11th Apr 05 UU Issue.doc :: SUCCESS
+2020-08-08 10:31:47.77 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\Phil Aitken\Models descriptions\Tool Configuration - Models Base Scope CD Version 11th April 05\Model 5 Base Scope Document-Vertical Bowl pumps\No.16 - Vertically Suspended Axial-Mixed Flow Bowl Type PS - GA 1_2.jpg :: SUCCESS
+2020-08-08 10:31:48.28 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\Phil Aitken\Models descriptions\Tool Configuration - Models Base Scope CD Version 11th April 05\Model 5 Base Scope Document-Vertical Bowl pumps\No.17 -Vertically Suspended Axial-Mixed Flow Bowl  PS - X section 1_2.JPG :: SUCCESS
+2020-08-08 10:31:48.72 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\Phil Aitken\Models descriptions\Tool Configuration - Models Base Scope CD Version 11th April 05\Model 5 Base Scope Document-Vertical Bowl pumps\No.18 - Vertically Suspended Axial-Mixed Flow Bowl PS - X section 2_2.JPG :: SUCCESS
+2020-08-08 10:31:49.08 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\Phil Aitken\Models descriptions\Tool Configuration - Models Base Scope CD Version 11th April 05\Model 5 Base Scope Document-Vertical Bowl pumps\No.19 - Vertically Suspended Axial-Mixed Flow Bowl Type PS - GA 2_2.JPG :: SUCCESS
+2020-08-08 10:31:49.41 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\Phil Aitken\Models descriptions\Tool Configuration - Models Base Scope CD Version 11th April 05\Model 5 Base Scope Document-Vertical Bowl pumps\No.20 - Vertically Suspended Axia- Mixed Flow Bowl type PS - P&ID.JPG :: SUCCESS
+2020-08-08 10:31:49.70 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\Phil Aitken\Models descriptions\Tool Configuration - Models Base Scope CD Version 11th April 05\Model 5 Base Scope Document-Vertical Bowl pumps\Thumbs.db :: SUCCESS
+2020-08-08 10:31:50.24 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\Repair and Maintenance\R&M Cost Database.xlsx :: SUCCESS
+2020-08-08 10:31:51.19 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\Repair and Maintenance\Rachel Kirkup.docx :: SUCCESS
+2020-08-08 10:31:51.75 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\Repair and Maintenance\STW AMS - Quotation Tracker - 2nd Sept 15.xlsx :: SUCCESS
+2020-08-08 10:31:52.88 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\To be uploaded\PA TO SORT\Avon_WTW_South Brent\Contract Award - 30005537_Avon WTW_South Brent Q-DW_Phosphate Dos_S35646_ATC DCF.xlsb :: SUCCESS
+2020-08-08 10:31:53.50 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\To be uploaded\PA TO SORT\Branscombe STW CM Infiltrations\Contract Award - 60010611_BRANSCOMBE_STW_CM_Infiltration_ATC DCF.xlsb :: SUCCESS
+2020-08-08 10:31:54.25 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\To be uploaded\PA TO SORT\Brokenbury_L02-1 CM_15-16\Contract Award - 50005464_Brokenbury_L02-1 CM_15-16_Dual_Nodes ATC DCF.xlsb :: SUCCESS
+2020-08-08 10:31:54.74 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\To be uploaded\PA TO SORT\Chagford Poll_S093 CM_15-16\Contract Award - 50005453_Chagford Poll_S093 CM_ 15-16_SEW_ATC DCF.xlsb :: SUCCESS
+2020-08-08 10:31:55.27 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\To be uploaded\PA TO SORT\Chyandor SPS CM Improvements\Contract Award - 50009853_Chyandour_SPS CM_Improvements ATC DCF.xlsb :: SUCCESS
+2020-08-08 10:31:56.16 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\To be uploaded\PA TO SORT\Clovelly Main North S293 CM SPS\Contract Award - 50005782 Clovelly Main_North_s293 CM_15-16_SPS S37414 ATC.xlsb :: SUCCESS
+2020-08-08 10:31:56.77 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\To be uploaded\PA TO SORT\Crediton Rehab M11 CM 16-17\Contract Award - 50008201_CREDITON REHAB_M11 CM_16-17_SEW ATC DCF.xlsb :: SUCCESS
+2020-08-08 10:31:57.33 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\To be uploaded\PA TO SORT\Fore St Salcombe\Contract Award - 50005472 Fore St_SALCOMBE_S299 DG5 + Salcombe Resewerage 15-16 S51928 ATC.xlsb :: SUCCESS
+2020-08-08 10:31:57.87 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\To be uploaded\PA TO SORT\Kernick Ind Est_ L11 CM_15-16 tanks\Contract Award - 5005452-Kerninck Industrial Estate_L11 CM_15-16_T 537167 ATC.xlsb :: SUCCESS
+2020-08-08 10:31:58.41 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\To be uploaded\PA TO SORT\Littlehempston Flow Control\Contract Award - 30001176_LITTLEHEMPSTON FLOW CONTROL_S-51150-1_ATC.xlsb :: SUCCESS
+2020-08-08 10:31:59.24 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\To be uploaded\PA TO SORT\Littlehempston WTW CM 12-13 Bypass Tank\Contract Award - 29022069_LITTLEHEMPSTON_WTW CM_12-13_TANK BYPASS_S18253-4_ATC DCF v2.xlsb :: SUCCESS
+2020-08-08 10:32:00.29 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\To be uploaded\PA TO SORT\Maer Lane STW Exmouth CM Baff Maint\Contract Award - 60001209_Maer Lane_STW_Exmouth CM_BAFF MAINT S36590 ATC.xlsb :: SUCCESS
+2020-08-08 10:32:01.08 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\To be uploaded\PA TO SORT\Nanstallon STW BOD Q WFD Alkalinity Dosing\Contract Award - 60001167_Nanstallon_STW_BOD Q-WFD_Alkalinity_Dosing_S30566_ATC checked.xlsb :: SUCCESS
+2020-08-08 10:32:01.77 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\To be uploaded\PA TO SORT\New Quay St Cornborough\Contract Award - 50005468 New Quay ST_Cornborough_L07 CM_15-16_SEW.xlsb :: SUCCESS
+2020-08-08 10:32:02.42 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\To be uploaded\PA TO SORT\Plymouth Tunnels L06\Contract Award - 49021945_Plymouth Tunnels_L06 CM_13-14_ph3.xlsb :: SUCCESS
+2020-08-08 10:32:03.02 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\To be uploaded\PA TO SORT\Portleven STW_CM  BAFF Refurb\Contract Award - 60005801_Porthleven_BAFF_Refurbishment_S36566_ATC.xlsb :: SUCCESS
+2020-08-08 10:32:03.73 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\To be uploaded\PA TO SORT\St Columb Ext Flood M15\Contract Award - 50005460_ST COLUMB EXT FLOOD_M15 CM_15-16_SEW ATC DCF.xlsb :: SUCCESS
+2020-08-08 10:32:04.38 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\To be uploaded\PA TO SORT\Th Lizard STW CM Regional Aeration 15-16\Contract Award - 60005803 The Lizard_STW CM Regional aeration 16-17 S50586 ATC Rev 2.xlsb :: SUCCESS
+2020-08-08 10:32:05.03 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\To be uploaded\PA TO SORT\Tregaseal Nr 2 STW CM_15-16 tanks\Contract Award - 60009999 Tregaseal NR_2_STW CM Regional Aeration S50528 ATC.xlsb :: SUCCESS
+2020-08-08 10:32:05.71 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\To be uploaded\TBC Ashill STW Ashill S&D\Contract award - 60006828 - ASHILL_STW_ASHILL SD_S AND D - ATC DCF.xlsb :: SUCCESS
+2020-08-08 10:32:06.76 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\To be uploaded\TBC ID 1080 NanstallonSTW BOD Q-WFD Alkalinity Dosing\Contract award - 60001167_Nanstallon_STW_BOD Q-WFD_Alkalinity_Dosing_S30566_ATC checked.xlsb :: SUCCESS
+2020-08-08 10:32:07.54 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\To be uploaded\TBC ID 1087 Wadebridge_M20 SD_Upgrade\50006248_Wadebridge_M20 SD_Upgrade_ATC DCF.xlsb :: SUCCESS
+2020-08-08 10:32:08.03 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\To be uploaded\TBC Malborough STW_Corrosion Repairs\Contract award - 60012055_Malborough_STW_Salcombe CM_Corrosion REP_ATC DCF.xlsb :: SUCCESS
+2020-08-08 10:32:08.70 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1002 Bastreet_WTW CM RGF Refurb\Contract Award - 30001174_BASTREET_WTW CM_RGF_REFURB_S354173 revised scope  ATC.xlsb :: SUCCESS
+2020-08-08 10:32:09.28 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1003 Blakewell Pump WPS CM Control 15-16\Contract Award 40001180_BLAKEWELL PUMP_WPS CM_CONTROL_S35921-3_ATC DCF.xlsb :: SUCCESS
+2020-08-08 10:32:09.96 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1004 Bridestowe_Poll_S061 CM_15-16_ Rehab\Contract Award - 50001104_BRIDESTOWE_POLL_S061_CM_15-16_REHAB_NA_ATC.xlsb :: SUCCESS
+2020-08-08 10:32:10.53 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1005 Brixton STW Briston SD S and D\Contract Award - 60001232_BRIXTON_STW_BRIXTON SD_S AND D_S36236_ATC DCF.xlsb :: SUCCESS
+2020-08-08 10:32:11.25 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1006 Cambourne OCU\Contract Award - 60001217_Cambourne STW Redruth E-Odr PST_S51942_ATC_DCF.xlsb :: SUCCESS
+2020-08-08 10:32:12.10 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1007 Chacewater Rehab S092 CM 15 16 Sew\Contract Award - 50001091_CHACEWATER REHAB_S092 CM_15-16_SEW_S42506_ATC.xlsb :: SUCCESS
+2020-08-08 10:32:12.82 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1008 Dousland Rendlestone Pumps\Contract Award - 40001183_DOUSLAND RENDLESTONE PUMPS_S51008-1_ATC DCF.xlsb :: SUCCESS
+2020-08-08 10:32:13.51 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1009 Dousland Yennadon Pumps 15-16\Contract Award - 40001182_DOUSLAND YENNADON PUMPS_S51004-1_ATC DCF.xlsb :: SUCCESS
+2020-08-08 10:32:14.17 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1010 DSEAR Nanstallon OCU\Contract Award - 00009770_DSEAR_NANSTALLON_OCU_ATC_S37070_9_DCF.xlsb :: SUCCESS
+2020-08-08 10:32:14.85 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1011 Exmouth Int Flood_L18 CM_15-16 Sew\Contract Award - 50005454_EXMOUTH INT FLOOD_L18 CM_15-16_SEW_TBC_ATC.xlsb :: SUCCESS
+2020-08-08 10:32:15.48 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1012 Pilton WBS CM Control 15-16\Contract Award - 40001179_PILTON WBS CM CONTROL 15-16 S51791_1 ATC.xlsb :: SUCCESS
+2020-08-08 10:32:16.17 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1013 Maer Lane STW Exmouth CM Nr 5 Air\Contract Award - 60004594_MAER LANE STW EXMOUTH CM NR 5 AIR_NO BP_ATC DCF.xlsb :: SUCCESS
+2020-08-08 10:32:16.94 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1014 Northcombe WTW CM OSEC\Contract Award - 30001172_Northcombe WTW CM Osec Refurb_S35447_3 ATC.xlsb :: SUCCESS
+2020-08-08 10:32:17.58 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1015 Woolsery STW SD Upgrade\Woolsery STW SD Updgrade.xlsb :: SUCCESS
+2020-08-08 10:32:18.17 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1016 Yennadon_Res_Sheepator CM_Bypass\Contract Award 40001187_YENNADON_RES_SHEEPSTOR CM_BYPASS_S35644-1_ATC DCF.xlsb :: SUCCESS
+2020-08-08 10:32:18.82 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1017 Trevia PS So86 CM 15-16 Rising Main\Contract Award - 50005404_Trevia PS So86 CM 15 16 RM_S50705_ATC.xlsb :: SUCCESS
+2020-08-08 10:32:19.41 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1018 Tamar WTW Tank Membrane\Contract Award - 30001286_TAMAR WTW TANK MEMBRANE_NO BP_ATC DCF.xlsb :: SUCCESS
+2020-08-08 10:32:20.02 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1019 Petersfield L17 CM 14 15 SPS\Contract Award - 49024641_PETERSFIELD_L17 CM_14-15_SPS_NA_ATC.xlsb :: SUCCESS
+2020-08-08 10:32:20.53 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1020 Kingsbridge Rehab_M08 CM 15-16_Sew\Contract Award - 5005456_Kingsbridge Rehab_M08 Cm_16-17_SEW ATC DCF.xlsb :: SUCCESS
+2020-08-08 10:32:21.07 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1021 Ruan PS_S496 CM_15-16_Rising Main\Contract Award - 50001098_RUAN PS_S496 CM-15-16_RISING MAIN_S4177_ATC DCF.xlsb :: SUCCESS
+2020-08-08 10:32:21.93 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1022 Maltsters_S104 CN_14-16_Rising Main\Contract Award - 49024476_Maltsters_S104 CN 14_15 Rising Main_No BP_ATC DCF.xlsb :: SUCCESS
+2020-08-08 10:32:22.52 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1023 Tregurrian_Newquay_L23 CM 15-16_Rehab\Contract Award - 50001100_TREGURRIAN_NEWQUAY_L23_CM_15-16_REHAB_NA_ATC.xlsb :: SUCCESS
+2020-08-08 10:32:23.11 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1024 St Columb Rehab M15 CM_15-16_Sew\Contract Award - 50005462_ST COLUMB REHAB_M15 CM_15-16_SEW__ATC DCF.xlsb :: SUCCESS
+2020-08-08 10:32:23.72 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1025 Loggons WPS Hayle CM 15-16\Contract Award - 40001181_Loggans WPS Hayle CM S37373_2 ATC.xlsb :: SUCCESS
+2020-08-08 10:32:24.26 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1026 Town Quay SPS\Contract Award - 50007647_Town Quay SPS - Surge Vessel Replacement_ATC DCF.xlsb :: SUCCESS
+2020-08-08 10:32:24.96 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1027 Chudleigh Road Plymouth\Contract Award - 50006684_Chudleigh Road Plymouth_RIO_ATC DCF.xlsb :: SUCCESS
+2020-08-08 10:32:25.45 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1028 Crediton Ext Flood\Contract Award - 50012731_CREDITON EXT FLOOD_M11_ CM 16-17_SEW ATC DCF.xlsb :: SUCCESS
+2020-08-08 10:32:26.05 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1029 Helston Int Flood\Contract Award - 50012728_HELSTON INT FLOOD_L13 CM_15-16_SEW_ATC DCF.xlsb :: SUCCESS
+2020-08-08 10:32:26.56 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1030 Holywell PS L23 CM 15-16 Rising Main\Contract Award - 50001099 HOLYWELL PS_L23 CM_15-16_RISING MAIN ATC DCF.xlsb :: SUCCESS
+2020-08-08 10:32:27.10 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1031 Plymouth Central Saline\Contract Award - 50006056 - Plymouth Central_Saline Ph1_L06 CM_15-16_Rehab_ATC_DCF.xlsb :: SUCCESS
+2020-08-08 10:32:27.70 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1032 Totnes Ext Flood M19\Contract Award - 50012730_Totnes Ext Flood_M19 CM_16-17_SEW_ATC DCF.xlsb :: SUCCESS
+2020-08-08 10:32:28.42 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1033 Totnes Int Flood M19\Contract Award - 50012729_TOTNES INT FLOOD_M19 CM_16-17_Sew -_S38604_ATC DCF.xlsb :: SUCCESS
+2020-08-08 10:32:28.99 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1034 Plymouth Central Int Flooding\Contract Award - 50005458_CENTRAL INT FLOOD_L06 CM_15-16_SEW_TBC_ATC.xlsb :: SUCCESS
+2020-08-08 10:32:29.51 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1035 Plymouth Central Ext Flooding\Contract Award - 500005459_CENTRAL EXT FLOOD_L06 CM_15-16_SEW_TBC_ATC.xlsb :: SUCCESS
+2020-08-08 10:32:30.09 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1036 Kingsbridge Rehab M08\Contract Award - 50011970_Kingsbridge Rehab_M08 CM_15-16_SEW_S42545_ATC DCF.xlsb :: SUCCESS
+2020-08-08 10:32:30.70 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1037 Killerton Road_Bude M05 CM 15-16\Contract Award - 50001105_KILLERTON ROAD_BUDE_M05_CM_15-16_SEW_ATC.xlsb :: SUCCESS
+2020-08-08 10:32:31.24 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1038 Sunnycliff Salcombe Sewer replacement\Contract award - 50006751_SUNNYCLIFF SALCOMBE SEWER REPLACEMENT_S37728_ATC.xlsx :: SUCCESS
+2020-08-08 10:32:36.03 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1039 Pelynt Rehab S370 CM 15 16 Sew\Contract Award - 50001093_PELYNT REHAB_S370 CM_15-16_SEW_S42503_ATC DCF.xlsb :: SUCCESS
+2020-08-08 10:32:36.75 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1039 Pelynt Rehab S370 CM 15 16 Sew\Final Account 50001093_PELYNT REHAB_S370 CM_15-16_SEW_S42503_FA.xlsb :: SUCCESS
+2020-08-08 10:32:37.34 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1040 Millbrook Rehab S317 CM 15-16 Sew\Contract Award - 50005457_MILLBROOK REHAB_S317 CM_15-16_Sew_s42500_ATC.xlsb :: SUCCESS
+2020-08-08 10:32:37.92 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1041 Chagford Poll_S093 CM_15-16_SEW\Contract Award - 50005453_Chagford Poll_S093 CM_ 15-16_SEW_ATC DCF.xlsb :: SUCCESS
+2020-08-08 10:32:38.44 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1045 St Columb EXT Flood_M15 CM_15-16\Contract Award - 50005460_ST COLUMB EXT FLOOD_M15 CM_15-16_SEW ATC DCF.xlsb :: SUCCESS
+2020-08-08 10:32:38.96 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1046 New Quay St_Cornborough_L07 CM_15-16\Contract Award - 50005468 New Quay ST_Cornborough_L07 CM_15-16_SEW.xlsb :: SUCCESS
+2020-08-08 10:32:39.47 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1047 Tavistock Rehab L09 CM_16-17_Sew\Contract Award - 50011971_Tavistock Rehab_L09_CM_16-17_SEW ATC DCF.xlsb :: SUCCESS
+2020-08-08 10:32:40.30 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1048 Kingsbridge Rehab M08 CM_16-17\Contract Award - 50005456_Kingsbridge Rehab_M08 Cm_16-17_SEW ATC DCF.xlsb :: SUCCESS
+2020-08-08 10:32:40.94 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1049 Aveton Gifford_S018 CM_15-16_Sew\Contract Award - 50005466_AVETON GIFFOR_S018 CM_15-16_SEW ATC DCF.xlsb :: SUCCESS
+2020-08-08 10:32:41.52 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1050 Totnes Rehab_M19 CM_16-17_Sew\Contract award - 50008202_Totnes rehab_M19 CM_16-1_Sew_ATC DCF.xlsb :: SUCCESS
+2020-08-08 10:32:42.04 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1051 Crediton Rehab_M11 CM_16-17_Sew Ph2\50001034_50017128_CREDITON_REHAB_PHASE 2_16-17_SEW.xlsb :: SUCCESS
+2020-08-08 10:32:42.51 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1052 Tavistock Int Flood_L09 CM_15-16_Sew\Contract Award - 50013630_Tavistock INT Flood_L09 CM_16-17_SEW_ ATC DCF.xlsb :: SUCCESS
+2020-08-08 10:32:42.98 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1053 Torquay Poll_L02-1 CM_16-17_Sew\Contract Award - 50017656_TORQUAY POLL_L02-1 CM_16-17_SEW_ATC.xlsb :: SUCCESS
+2020-08-08 10:32:43.61 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1054 Polperro_Poll_S597 CM_Rehab\Contract Award - 50013628_Polperro_Poll_S597 CM_Rehab_ATC_DCF.xlsb :: SUCCESS
+2020-08-08 10:32:44.20 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1055 Lower Sticker PS_M13 CM_16-17_RM\Contract Award - 50011969_Lower Sticker PS_M13 CM_16-17_Rising Main_ATC_DCF.xlsb :: SUCCESS
+2020-08-08 10:32:44.93 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1056 Ilfracombe Rehab_L15 CM_16-17_Sew\Contract Award - 50008165_IlfracombeRehab-L15 CM 16-17_SEW_ATC_DCF.xlsb :: SUCCESS
+2020-08-08 10:32:45.49 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1057 Treviscoe SPS_M13_CM_15-16_RM\Contract Award - 50008166_TREVISCOE SPS_M13_CM 17-18_RISING MAIN_ATC DCF.xlsb :: SUCCESS
+2020-08-08 10:32:46.08 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1058 Maer Lane Baff No5\Contract Award 60001491_MAER LANE_STW_EXMOUTH CM BAFF NR5 MESH_S36590_ATC DCF.xlsb :: SUCCESS
+2020-08-08 10:32:46.96 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1059 Maer Lane Baff No5 FA\Final Account - 60001491_MAER LANE_STW_EXMOUTH CM BAFF NR5 MESH_S36590_FA.xlsb :: SUCCESS
+2020-08-08 10:32:47.69 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1060 Kerninck Industrial Estate_L11 CM_15-16\Contract Award - 5005452-Kerninck Industrial Estate_L11 CM_15-16_T 537167 ATC.xlsb :: SUCCESS
+2020-08-08 10:32:48.26 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1061 Branscombe STW CM Infiltrations\Contract award - 60010611_BRANSCOMBE_STW_CM_Infiltration_NA_ATC DCF.xlsb :: SUCCESS
+2020-08-08 10:32:48.76 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1062 Crediton Rehab M11 CM_16-17\Contract award - 50008201_CREDITON REHAB_M11 CM_16-17_SEW ATC DCF.xlsb :: SUCCESS
+2020-08-08 10:32:49.46 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1063 Maer Road L18 CM_17-18_SPS\Contract award - 50015702_Maer Road L18 CM_17-18_SPS_S52323_ATC.xlsb :: SUCCESS
+2020-08-08 10:32:50.08 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1064 Brokenbury_L02-1 CM_15-16_Dual Nodes\Contract award - 50005464_Brokenbury_L02-1 CM_15-16_Dual_Nodes ATC DCF.xlsb :: SUCCESS
+2020-08-08 10:32:50.87 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1065 Plymouth Tunnels_L06 CM_13-14_ph3\Contract award - 49021945_Plymouth Tunnels_L06 CM_13-14_ph3 ATC.xlsb :: SUCCESS
+2020-08-08 10:32:51.48 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1066 Old MIll PS_S478 CM_Rising Main\Contract award - S40736_50011968_Old Mill PS_S478 CM_Rising Main_ATC DCF.xlsb :: SUCCESS
+2020-08-08 10:32:52.02 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1067 Milton Abbot_STW_CM_Infiltration\Contract award - 60010610_MILTON_ABBOT_STW_CM_INFILTRATION_ATC DCF.xlsb :: SUCCESS
+2020-08-08 10:32:52.65 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1068 Plymouth Centra Saline_Ph2 L06 CM_16-17\Contract award - 50017609_PLYMOUTH CNTRSALINE PH2_L06 CM16-17REHAB_ATC DCF.xlsb :: SUCCESS
+2020-08-08 10:32:53.25 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1069 Boat Yard_Malpas L22 CM_SPS\Contract award - 50018172_BOAT YARD_MALPAS L22 CM_SPS_ATC DCF.xlsb :: SUCCESS
+2020-08-08 10:32:53.85 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1070 Clovelly Main-North_S293 CM_15-16_SPS\50005782 Clovelly Main_North_s293 CM_15-16_SPS S37414 ATC.xlsb :: SUCCESS
+2020-08-08 10:32:54.39 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1071 Mayors Avenue M03 15-16 SPS\Contract award - 50015701_MAYORS AVENUE_M03 CM_15-16_SPS_ATC DCF.xlsb :: SUCCESS
+2020-08-08 10:32:55.11 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1072 Chyandour_L12-2 E-Sew_SPS_Ph1\Contract award - 50009853_Chyandour_SPS CM_Improvements ATC DCF.xlsb :: SUCCESS
+2020-08-08 10:32:55.00 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1073 Caleninck L22 CM_16-17_SPS\Contract award - 50011972_Calenick L22 CM_17-17_SPS_ATC DCF.xlsb :: SUCCESS
+2020-08-08 10:32:56.76 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1074 Station Road Perranporth S372_SPS\Contract award - 50015704_STATION ROAD PERRANPORTH S372_SPS_ATC_DCF.xlsb :: SUCCESS
+2020-08-08 10:32:57.76 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1075 Maer Lane STW Exmouth CM BAFF Maintenance\Contract award - 60001209_Maer Lane_STW_Exmouth CM_BAFF MAINT S36590 ATC.xlsb :: SUCCESS
+2020-08-08 10:32:58.51 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1076 North Tawton STW Q-WFD_Phosphor\Contract Award - 60001165_NORTH TAWTON_STW Q-WFD_PHOSPHOR_S45353_ATC DCF.xlsb :: SUCCESS
+2020-08-08 10:32:59.35 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1077 Tiverton STW Q-UWW_Phosphorous\Contract award - 60001166_TIVERTON_STW_Q-UWW_PHOSPHORUS_S45318_ATC DCF.xlsb :: SUCCESS
+2020-08-08 10:33:00.14 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1078 St Leonards_STW_Launceston_SD Growth\Contract Award - 60001287_ST LEONARDS_STW_LAUNCESTON_SD GROWTH_S51264_ATC DCF v2a.xlsb :: SUCCESS
+2020-08-08 10:33:00.82 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1079 Tregaseal Nr 2 STW CM Regional Aeration\Contract award - 60009999 Tregaseal NR_2_STW CM Regional Aeration S50528 ATC.xlsb :: SUCCESS
+2020-08-08 10:33:01.52 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1081 The Lizard_STW CM Regional Aeration\60005803 The Lizard_STW CM Regional aeration 16-17 S50586 ATC Rev 2.xlsb :: SUCCESS
+2020-08-08 10:33:02.81 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1082 Gwithians_STW SD DESC NUMN\Contract Award - 60001219_Gwithian_STW_Gwithian SD_DESC NUMN_ ATC DCF 2.xlsb :: SUCCESS
+2020-08-08 10:33:03.66 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1083 Porthleven STW_CM BAFF Refurbishment 15-16\Contract award - 60005801_Porthleven_BAFF_Refurbishment_S36566_ATC.xlsb :: SUCCESS
+2020-08-08 10:33:04.34 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1084 Countess Wear_STW CM_14-15_Screen Maint\59023883_Countess Wear_STW CM 14-15_Screen Maint_D5E1034_ATC DCF.xlsb :: SUCCESS
+2020-08-08 10:33:05.22 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1085 Northam Finescreens_L07 CM_15-16_SPS\50015700_NORTHAM FINESCREENS_L07 CM_15-16_SPS_ATC_DCF.xlsb :: SUCCESS
+2020-08-08 10:33:05.83 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1086 Marsh Mills_STW CM_Alkalinity Dosing\Contract award - 60013714_Marsh Mills_STW CM_Glidepath_Alkal Dosing_ATC_DCF.xlsb :: SUCCESS
+2020-08-08 10:33:06.53 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1088 Avon WTW_South Brent Q-DW_Phosphate Dosing\Contract award - 30005537_Avon WTW_South Brent Q-DW_Phosphate Dos_S35646_ATC DCF.xlsb :: SUCCESS
+2020-08-08 10:33:07.11 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1089 St Cleer WTW CM TWT Membrane\Contract Award - 30001171_ST CLEER_WTW_LISKEARD CM__RPL ME_S35785-5_ATC DCF.xlsb :: SUCCESS
+2020-08-08 10:33:07.86 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1089 St Cleer WTW CM TWT Membrane\Final Account - 30001171_ST CLEER_WTW_LISKEARD CM__RPL ME_S35785-5_FA.xlsb :: SUCCESS
+2020-08-08 10:33:08.54 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1090 Bastreet_WTW CM_RGF Refurb\Copy of Contract award - 30001174_BASTREET_WTW CM_RGF_REFURB_S354173 revised scope  ATC.xlsb :: SUCCESS
+2020-08-08 10:33:09.25 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1091 Littlehempston WTW CM_12-13_Bypass Tanks\Contract award - 29022069_LITTLEHEMPSTON_WTW CM_12-13_TANK BYPASS_S18253-4_ATC DCF v2.xlsb :: SUCCESS
+2020-08-08 10:33:09.88 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1092 Colliford Brattion Replacement Works\Contract award - 70000595_Colliford_Bratton Replacement Works_ATC DCF.xlsb :: SUCCESS
+2020-08-08 10:33:10.47 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1093 Fore St Salcombe\50005472 Fore St_SALCOMBE_S299 DG5 + Salcombe Resewerage 15-16 S51928 ATC.xlsb :: SUCCESS
+2020-08-08 10:33:11.00 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1094 Mary Tavy HV-LV Upgrade\Contract award - 10010076_Mary_Tavy_Upgrade_ATC DCF.xlsb :: SUCCESS
+2020-08-08 10:33:11.69 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1095 Saltash BPS SD_Refurb\Contract award - 40017544_Saltash BPS SD_refurb_ATC DCF.xlsb :: SUCCESS
+2020-08-08 10:33:12.40 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1096 Blakewell Pump_WPS CM_Control\Contract award - 40001180_BLAKEWELL PUMP_WPS CM_CONTROL_S35921-3_ATC DCF.xlsb :: SUCCESS
+2020-08-08 10:33:13.21 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1097 Stallcombe SR 15-16\S51904_40005199_Stallcombe SR_ATC DCF.xlsb :: SUCCESS
+2020-08-08 10:33:13.82 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1098 Stallcombe_WPS CM_12-13_Upgrade PS\Contract award - 39023866_Stallcombe_WPS CM_12-13_Upgrade PS_ATC_DCF.xlsb :: SUCCESS
+2020-08-08 10:33:14.39 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1099 Petersfield_L17 CM_14-15_SPS Final Account\Final Account - 49024641_Petersfield_L17 CM_14-15_SPS_NA_FA.xlsb :: SUCCESS
+2020-08-08 10:33:14.94 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1100 - Killerton Road_Bude Final Account\Final Account - 50001105_KILLERTON ROAD_BUDE_M05_CM_15-16_SEW_FA.xlsb :: SUCCESS
+2020-08-08 10:33:15.52 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1101 Exmouth Int Flood_L18 CM_15-16_Sew Final Account\Final Account - 50005454_EXMOUTH INT FLOOD_L18 CM_15-16_SEW_TBC_FA.xlsb :: SUCCESS
+2020-08-08 10:33:16.13 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1102 Stallcombe WPS CM_12-13_Upgrade PS Final Account\Final Account - 39023866_Stallcombe_WPS CM_12-13_Upgrade PS_FA (Autosaved).xlsb :: SUCCESS
+2020-08-08 10:33:16.77 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1103 Plymouth Central Int Flooding Final Account\Final Account - 50005458_CENTRAL INT FLOOD_L06 CM_15-16_SEW_TBC_ATC.xlsb :: SUCCESS
+2020-08-08 10:33:17.30 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1104 Plymouth Central Ext Flooding Final Account\Final Account - 500005459_CENTRAL EXT FLOOD_L06 CM_15-16_SEW_TBC_ATC.xlsb :: SUCCESS
+2020-08-08 10:33:17.77 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\SWW AMP6\Uploaded but issues\ID 1105 St Columb Rehab M_15 CM_15-16_Sew Final Account\Final Account - 50005462_ST COLUMB REHAB_M15 CM_15-16_SEW__FA DCF.xlsb :: SUCCESS
+2020-08-08 10:33:18.49 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\UU AMP6\Brennand raw water pipeline Opt 1 Estimate.xls :: SUCCESS
+2020-08-08 10:33:19.14 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\UU AMP6\Brennand raw water pipeline opt 2 Estimate.xls :: SUCCESS
+2020-08-08 10:33:19.70 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\UU AMP6\Crosshill SR 1 Opt 1 and Opt 2 Intel Rev DW.xlsx :: SUCCESS
+2020-08-08 10:33:20.72 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\UU AMP6\Dukinfield Option 1a Estimate.xlsx :: SUCCESS
+2020-08-08 10:33:21.57 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\UU AMP6\Dukinfield Option 1b Estimate.xlsx :: SUCCESS
+2020-08-08 10:33:22.14 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\UU AMP6\Dukinfield Option 2a Estimate.xlsx :: SUCCESS
+2020-08-08 10:33:22.80 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\UU AMP6\Dukinfield Option 2b Estimate.xlsx :: SUCCESS
+2020-08-08 10:33:23.51 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\UU AMP6\High Leys Service Reservoir Estimate.xlsx :: SUCCESS
+2020-08-08 10:33:23.00 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\UU AMP6\Lostock Estimate.xlsx :: SUCCESS
+2020-08-08 10:33:24.97 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\UU AMP6\Moota Hil Service Reservoir Estimate.xlsx :: SUCCESS
+2020-08-08 10:33:25.97 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\UU AMP6\Rivington ESTIMATE.xlsx :: SUCCESS
+2020-08-08 10:33:27.07 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\UU AMP6\Sandringham Drive DG5 Estimate.xlsx :: SUCCESS
+2020-08-08 10:33:27.60 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\UU AMP6\Upper Chelburn Estimate.xlsx :: SUCCESS
+2020-08-08 10:33:28.12 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\UU AMP6\Warrington - AR - Dans Road Resilience - Estimate Sheet WITH SCOPE.xlsx :: SUCCESS
+2020-08-08 10:33:29.65 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\1. Working Folder\UU AMP6\Winsford WwTW Option 1 Estimate.xlsx :: SUCCESS
+2020-08-08 10:33:31.21 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\2. Hindsight Location Factors\Hindsight Location Factors 27th Jan 2015.xlsx :: SUCCESS
+2020-08-08 10:33:31.65 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\2. Hindsight Location Factors\Hindsight Location Factors 27th Nov 2015.xlsx :: SUCCESS
+2020-08-08 10:33:32.09 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\BSI PAS\BSI_PAS_1192_2_2013.pdf :: SUCCESS
+2020-08-08 10:33:35.44 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\BSI PAS\BSI_PAS_1192_3_2014.pdf :: SUCCESS
+2020-08-08 10:33:38.76 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\BSI PAS\BSI_PAS_1192_5_2015.pdf :: SUCCESS
+2020-08-08 10:33:42.15 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\COPI\Apr-June 15 COPI.xlsx :: SUCCESS
+2020-08-08 10:33:42.65 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\COPI\COPI (Apr to June 2015).pdf :: SUCCESS
+2020-08-08 10:33:43.55 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\COPI\COPI (Jan to March 2015).pdf :: SUCCESS
+2020-08-08 10:33:44.79 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\COPI\Jan-March 15 COPI.xlsx :: SUCCESS
+2020-08-08 10:33:45.15 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\COPI\RPI & COPI April 14.xlsx :: SUCCESS
+2020-08-08 10:33:46.22 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\Oncosts\Oncosts review.xlsx :: SUCCESS
+2020-08-08 10:33:46.86 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\RPI\20170327 Forecast indices_RPI year ave.xlsx :: SUCCESS
+2020-08-08 10:33:47.55 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\RPI\RPI & COPI April 14.xlsx :: SUCCESS
+2020-08-08 10:33:48.58 :: Copying \\10.0.0.15\data\2. Oracle\1. Hindsight\RPI\RPI to July 2015.xlsx :: SUCCESS
+2020-08-08 10:33:48.92 JOB COMPLETE - No Errors
+Total Files Copied: 182
+Total Copy failures: 0
+Total Files Deleted: 0
+Total deletion failures: 0
+-----------------------------------------------------------------
+2020-08-08 11:05:17.91 :: About to synchronise \\10.0.0.15\data\2. Oracle ---> C:\DeleteMe\Destination Test
+2020-08-08 11:05:17.92 Scanning source folder: \\10.0.0.15\data\2. Oracle
+2020-08-08 11:05:27.66 Scanning destination folder: C:\DeleteMe\Destination Test
+2020-08-08 11:05:28.00 JOB COMPLETE - No Errors
+Total Files Copied: 0
+Total Copy failures: 0
+Total Files Deleted: 0
+Total deletion failures: 0
+-----------------------------------------------------------------
+2020-08-08 23:09:09.34 :: About to synchronise \\10.0.0.15\Data\7. Users Folders\Gary Hodge ---> C:\DeleteMe\Destination Test 2
+2020-08-08 23:09:09.35 Scanning source folder: \\10.0.0.15\Data\7. Users Folders\Gary Hodge
+2020-08-08 23:09:09.66 Error fetching contents of source folder '\\10.0.0.15\Data\7. Users Folders\Gary Hodge': 5-The system cannot find the path specified : \\10.0.0.15\Data\7. Users Folders\Gary Hodge\*.*
+2020-08-08 23:09:09.66 Scanning destination folder: C:\DeleteMe\Destination Test 2
+2020-08-08 23:09:09.67 JOB COMPLETE - ! WITH ERRORS !
+Total Files Copied: 0
+Total Copy failures: 0
+Total Files Deleted: 0
+Total deletion failures: 0
+-----------------------------------------------------------------
+2020-08-08 23:12:06.62 :: About to synchronise \\10.0.0.15\Data\7. Users Folders\Gary Hodge ---> C:\DeleteMe\Destination Test 2
+2020-08-08 23:12:06.63 Scanning source folder: \\10.0.0.15\Data\7. Users Folders\Gary Hodge
+-----------------------------------------------------------------
+2020-08-08 23:15:19.57 :: About to synchronise \\10.0.0.15\Data\7. Users Folders\Gary Hodge ---> C:\DeleteMe\Destination Test 2
+2020-08-08 23:15:19.58 Scanning source folder: \\10.0.0.15\Data\7. Users Folders\Gary Hodge
+2020-08-08 23:15:20.90 Scanning destination folder: C:\DeleteMe\Destination Test 2
+-----------------------------------------------------------------
+2020-08-08 23:24:51.72 :: About to synchronise \\10.0.0.15\Data\7. Users Folders\Gary Hodge ---> C:\DeleteMe\Destination Test 2
+2020-08-08 23:24:51.73 Scanning source folder: \\10.0.0.15\Data\7. Users Folders\Gary Hodge
+2020-08-08 23:24:53.02 Scanning destination folder: C:\DeleteMe\Destination Test 2
