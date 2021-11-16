@@ -33,6 +33,9 @@
     End Property
 
     Public Sub DeleteFile(Index As Long)
+
+        'This routine will delete files from the array.
+
         Dim llngPos As Long
 
         For llngPos = Index To mlngCount - 1

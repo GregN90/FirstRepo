@@ -40,6 +40,8 @@
         Get
             If (Index >= 0 And Index <= 7) Then
                 Return mblnDays(Index)
+            Else
+                Return False
             End If
         End Get
 
